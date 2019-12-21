@@ -1,1 +1,4 @@
 # LibraryManagerSystem
+一个简单的图书管理系统
+利用Java连接MySQL数据库
+使用JavaGUI做简单界面
